@@ -1,3 +1,3 @@
 angry text converter
 
-free and
+free and open
