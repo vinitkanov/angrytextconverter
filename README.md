@@ -2,4 +2,4 @@ angry text converter
 
 free and open source project :)
 
-123
+1234
